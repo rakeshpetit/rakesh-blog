@@ -1,0 +1,7 @@
+{
+    "editor.fontLigatures": null,
+    "emmet.includeLanguages": {
+        "njk": "html",
+        "nunjucks": "html"
+    }
+}
